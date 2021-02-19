@@ -6,7 +6,7 @@ AudioCompression.m - This is the for audio compression. The code output consists
 Echo.m - This is the code for echo addition. This can be used for convolution of 2 different audios as well. The output is a wav file consisting of the echo addition.<br>
 NoiseRemoval.m - This is the code for noise removal.<br>
 
-The processed audio files are present in the folder Processed Output. 
+The processed audio files are present in the folder ProcessedAudio. 
 
 
 This code supports any audio in wav format.
